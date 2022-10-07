@@ -1,3 +1,5 @@
+// Write a Program to find area of circe using single inheritance such that the base class function must accept the radius from the user and the derived class function must calculate and display the area. 
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
