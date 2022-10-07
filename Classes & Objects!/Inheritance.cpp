@@ -1,3 +1,5 @@
+// Program: Write a program to add two numbers using single inheritance such that the base class function must accept the two numbers from the user and the derived class function must add these numbers and display the sum.
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
